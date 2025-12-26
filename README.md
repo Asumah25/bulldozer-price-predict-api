@@ -1,4 +1,4 @@
-@@ -0,0 +1,16 @@
+
 # Bulldozer Price Prediction API
 
 This project is a **FastAPI web service** for predicting bulldozer prices using a trained RandomForestRegressor model.  
@@ -15,3 +15,4 @@ It exposes a REST API with endpoints for health checks and predictions.
 ---
 
 ##  Project Structure
+
